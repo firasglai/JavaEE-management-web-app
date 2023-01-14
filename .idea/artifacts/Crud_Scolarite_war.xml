@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Crud-Scolarite:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Crud-Scolarite</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Crud-Scolarite-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Crud-Scolarite:war exploded" />
+    </root>
+  </artifact>
+</component>
