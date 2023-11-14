@@ -1,4 +1,4 @@
-# Java EE 8 Web Application (JSP and Servlet Database CRUD Application)
+#  University Management System (Java EE 8 Web Application JSP , Servlet )
 
  
 
